@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x6DeF300Ce74AB903856Cd12265abC87a7F68f659",
+    "name": "CLA TokenA",
+    "symbol": "TKA",
+    "logoFile": "0x0000000000000000000000000000000000000000.png"
+  },
+  {
+    "address": "0xACf374Ec2799Dc188fb166437bf36eF22692d489",
+    "name": "CLA TokenD",
+    "symbol": "TKD",
+    "logoFile": "0x0000000000000000000000000000000000000000.png"
+  },
+  {
+    "address": "0xcf33dFC4aCe9d7b9382130D90C3A49Ed7Fe736B9",
+    "name": "CLA TokenB",
+    "symbol": "TKB",
+    "logoFile": "0x0000000000000000000000000000000000000000.png"
+  },
+  {
+    "address": "0xD73c7cB750A6777218c3E16b5449cd4D33C03Eb0",
+    "name": "CLA TokenC",
+    "symbol": "TKC",
+    "logoFile": "0x0000000000000000000000000000000000000000.png"
+  }
+]
