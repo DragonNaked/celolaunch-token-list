@@ -1,6 +1,6 @@
 {
   "name": "@dragonnaked311/celolauncht-token-list",
-  "version": "1.0.0.alpha.1",
+  "version": "1.0.1",
   "description": "The CLA default token list",
   "main": "celolaunch.token-list.json",
   "author": "\"Join Wick 113\"",
