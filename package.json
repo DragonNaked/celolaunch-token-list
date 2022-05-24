@@ -1,8 +1,8 @@
 {
-  "name": "@dragonnaked/celolaunch-token-list",
-  "version": "1.0.0",
+  "name": "@dragonnaked311/celolauncht-token-list",
+  "version": "1.0.0.alpha.1",
   "description": "The CLA default token list",
-  "main": "cla.token-list.json",
+  "main": "celolaunch.token-list.json",
   "author": "\"Join Wick 113\"",
   "license": "MIT",
   "devDependencies": {
@@ -25,5 +25,9 @@
     "validate-image": "ts-node src/scripts/validateImages.ts celolaunch.token-list.json",
     "validate": "ts-node src/scripts/validateList.ts celolaunch.token-list.json",
     "validate-experimental": "ts-node src/scripts/validateList.ts celolaunch-experimental.token-list.json"
-  }
+  },
+  "files": [
+    "celolaunch.token-list.json",
+    "celolaunch-experimental.token-list.json"
+  ]
 }
