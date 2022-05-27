@@ -2,7 +2,7 @@
   "name": "CeloLaunch",
   "logoURI": "https://raw.githubusercontent.com/dragonnaked/celolaunch-token-list/main/logo.svg",
   "keywords": ["celo", "celolaunch", "defi"],
-  "timestamp": "2022-05-24T10:19:34.882Z",
+  "timestamp": "2022-05-27T16:12:58.483Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -384,6 +384,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }

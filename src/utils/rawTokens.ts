@@ -18,8 +18,8 @@ export type ICeloNetwork = typeof CELO_NETWORK_NAMES[number];
 const rawTokensJson: {
   [nextwork in ICeloNetwork]: [number, IRawTokensJson];
 } = {
-  test: [44780, test],
-  alfajores: [44780, alfajores],
+  test: [44787, test],
+  alfajores: [44787, alfajores],
   baklava: [62320, baklava],
   mainnet: [42220, mainnet],
 };
