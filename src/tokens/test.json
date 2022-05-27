@@ -1,9 +1,19 @@
 [
   {
+    "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
+    "name": "Celo Euro",
+    "symbol": "cEUR"
+  },
+  {
     "address": "0x6DeF300Ce74AB903856Cd12265abC87a7F68f659",
     "name": "CLA TokenA",
     "symbol": "TKA",
     "logoFile": "0x0000000000000000000000000000000000000000.png"
+  },
+  {
+    "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
+    "name": "Celo Dollar",
+    "symbol": "cUSD"
   },
   {
     "address": "0xACf374Ec2799Dc188fb166437bf36eF22692d489",
@@ -22,5 +32,10 @@
     "name": "CLA TokenC",
     "symbol": "TKC",
     "logoFile": "0x0000000000000000000000000000000000000000.png"
+  },
+  {
+    "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+    "name": "Celo",
+    "symbol": "CELO"
   }
 ]

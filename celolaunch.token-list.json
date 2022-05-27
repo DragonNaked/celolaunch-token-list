@@ -2,7 +2,7 @@
   "name": "CeloLaunch",
   "logoURI": "https://raw.githubusercontent.com/dragonnaked/celolaunch-token-list/main/logo.svg",
   "keywords": ["celo", "celolaunch", "defi"],
-  "timestamp": "2022-05-27T16:12:58.483Z",
+  "timestamp": "2022-05-27T18:11:27.598Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -110,7 +110,7 @@
     },
     {
       "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
-      "name": "Optics v2 WMATIC via Polygon",
+      "name": "WMATIC via Polygon",
       "symbol": "WMATIC",
       "chainId": 42220,
       "decimals": 18,
@@ -126,7 +126,7 @@
     },
     {
       "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
-      "name": "Celo Moss Carbon Credit",
+      "name": "Celo Moss Carbon",
       "symbol": "cMCO2",
       "chainId": 42220,
       "decimals": 18,
@@ -222,7 +222,7 @@
     },
     {
       "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
-      "name": "Duniapay West African CFA franc",
+      "name": "CFA franc",
       "symbol": "cXOF",
       "chainId": 42220,
       "decimals": 18,
